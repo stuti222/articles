@@ -13,10 +13,8 @@ You can download and read my latest articles below.
 
 1. [**The Evolution of Time Series Forecasting**](https://stuti222.github.io/articles/Innovations_in_Time_Series_Analysis.pdf)  
    This article explores the history and advancements in time series forecasting models, from classical approaches to modern deep learning.
-   
 <br><br>
-
-3. [**Interpretability in ML Models**](https://stuti222.github.io/articles/Interpretability_in_ML_models.pdf)  
+2. [**Interpretability in ML Models**](https://stuti222.github.io/articles/Interpretability_in_ML_models.pdf)  
    This article discusses the importance of interpretability in machine learning models, exploring various methods and their impact on model trust and fairness. 
 
 ---
