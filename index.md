@@ -22,7 +22,6 @@ You can download and read my latest articles below.
 <br><br>
 4. [**Maintaining Machine Learning Models in Production**](https://stuti222.github.io/articles/Maintaining_Machine_Learning_models_in_production.pdf)  
    This article explores the importance of maintaining machine learning models in production, emphasising their impact, emerging trends, and strategies for ensuring robustness, scalability, and sustained model performance and adaptability over time. 
-<br><br>
 
 ---
 
