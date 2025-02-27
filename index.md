@@ -21,7 +21,10 @@ You can download and read my latest articles below.
    This article addresses the challenge of bias in machine learning, exploring techniques for detection, mitigation, and the ethical considerations involved in creating fair AI systems.
 <br><br>
 4. [**Maintaining Machine Learning Models in Production**](https://stuti222.github.io/articles/Maintaining_Machine_Learning_models_in_production.pdf)  
-   This article explores the importance of maintaining machine learning models in production, emphasising their impact, emerging trends, and strategies for ensuring robustness, scalability, and sustained model performance and adaptability over time. 
+   This article explores the importance of maintaining machine learning models in production, emphasising their impact, emerging trends, and strategies for ensuring robustness, scalability, and sustained model performance and adaptability over time.
+<br><br>
+5. [**Framing a Question and Choosing the Right Model**](https://stuti222.github.io/articles/Framing_a_question_and_choosing_a_right_model.pdf)  
+   This article discusses the importance of framing the right problem and choosing the appropriate model in machine learning, highlighting key decision-making steps and examples of model selection.
 
 ---
 
