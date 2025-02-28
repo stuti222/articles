@@ -11,22 +11,22 @@ You can download and read my latest articles below.
 
 ## Articles
 
-1. [**The Evolution of Time Series Forecasting**](https://stuti222.github.io/articles/Innovations_in_Time_Series_Analysis.pdf)  
+1. [**The Evolution of Time Series Forecasting**](https://stuti222.github.io/articles/articles/Innovations_in_Time_Series_Analysis.pdf)  
    This article explores the history and advancements in time series forecasting models, from classical approaches to modern deep learning.
 <br><br>
-2. [**Interpretability in ML Models**](https://stuti222.github.io/articles/Interpretability_in_ML_models.pdf)  
+2. [**Interpretability in ML Models**](https://stuti222.github.io/articles/articles/Interpretability_in_ML_models.pdf)  
    This article discusses the importance of interpretability in machine learning models, exploring various methods and their impact on model trust and fairness.
 <br><br>
-3. [**Bias Prevention in Machine Learning**](https://stuti222.github.io/articles/Bias_prevention_in_model_training.pdf)  
+3. [**Bias Prevention in Machine Learning**](https://stuti222.github.io/articles/articles/Bias_prevention_in_model_training.pdf)  
    This article addresses the challenge of bias in machine learning, exploring techniques for detection, mitigation, and the ethical considerations involved in creating fair AI systems.
 <br><br>
-4. [**Maintaining Machine Learning Models in Production**](https://stuti222.github.io/articles/Maintaining_Machine_Learning_models_in_production.pdf)  
+4. [**Maintaining Machine Learning Models in Production**](https://stuti222.github.io/articles/articles/Maintaining_Machine_Learning_models_in_production.pdf)  
    This article explores the importance of maintaining machine learning models in production, emphasising their impact, emerging trends, and strategies for ensuring robustness, scalability, and sustained model performance and adaptability over time.
 <br><br>
-5. [**Framing a Question and Choosing the Right Model**](https://stuti222.github.io/articles/Framing_a_question_and_choosing_a_right_model.pdf)  
+5. [**Framing a Question and Choosing the Right Model**](https://stuti222.github.io/articles/articles/Framing_a_question_and_choosing_a_right_model.pdf)  
    This article discusses the importance of framing the right problem and choosing the appropriate model in machine learning, highlighting key decision-making steps and examples of model selection.
 <br><br>
-6. [**Advancements in Data Science: Tools, Techniques, and Industry Trends**](https://stuti222.github.io/articles/Trends_in_latest_tools_and_techniques.pdf)  
+6. [**Advancements in Data Science: Tools, Techniques, and Industry Trends**](https://stuti222.github.io/articles/articles/Trends_in_latest_tools_and_techniques.pdf)  
    This article explores the evolution of data science tools and techniques, comparing different tech stacks across industries, decision-making strategies for tool adoption, and the emerging innovations shaping the future of the field. 
 
 ---
