@@ -25,6 +25,9 @@ You can download and read my latest articles below.
 <br><br>
 5. [**Framing a Question and Choosing the Right Model**](https://stuti222.github.io/articles/Framing_a_question_and_choosing_a_right_model.pdf)  
    This article discusses the importance of framing the right problem and choosing the appropriate model in machine learning, highlighting key decision-making steps and examples of model selection.
+<br><br>
+6. [**Advancements in Data Science: Tools, Techniques, and Industry Trends**](https://stuti222.github.io/articles/Trends_in_latest_tools_and_techniques.pdf)  
+   This article explores the evolution of data science tools and techniques, comparing different tech stacks across industries, decision-making strategies for tool adoption, and the emerging innovations shaping the future of the field. 
 
 ---
 
