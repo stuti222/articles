@@ -28,6 +28,9 @@ You can download and read my latest articles below.
 <br><br>
 6. [**Advancements in Data Science: Tools, Techniques, and Industry Trends**](https://stuti222.github.io/articles/articles/Trends_in_latest_tools_and_techniques.pdf)  
    This article explores the evolution of data science tools and techniques, comparing different tech stacks across industries, decision-making strategies for tool adoption, and the emerging innovations shaping the future of the field. 
+7. [**Getting Started with Python App Development**](https://stuti222.github.io/articles/articles/Getting_started_with_a_Python_app_development.pdf)
+This article provides a comprehensive guide to Python app development, covering key concepts, best practices, and advanced topics such as optimising performance, asynchronous programming, and building scalable microservices. It's perfect for developers looking to level up their Python skills.
+
 
 ---
 
