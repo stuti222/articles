@@ -31,7 +31,10 @@ You can download and read my latest articles below.
 <br><br>
 7. [**Getting Started with Python App Development**](https://stuti222.github.io/articles/articles/Getting_started_with_a_Python_app_development.pdf)
 This article provides a comprehensive guide to Python app development, covering key concepts, best practices, and advanced topics such as optimising performance, asynchronous programming, and building scalable microservices. It's perfect for developers looking to level up their Python skills.
-
+<br><br>
+8. [**Powerful Built-in Python Libraries and Useful Applications They Can Help Develop**](https://stuti222.github.io/articles/articles/Powerful_built_in_Python_libraries_and_useful_applications_they_can_help_develop.pdf)  
+   This article covers powerful Python standard libraries and their applications, including how developers can leverage these libraries to build efficient, scalable applications.
+<br><br>
 
 ---
 
