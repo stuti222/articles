@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Welcome to My Data Science Blog
+title: Innovative World of Data Science
 ---
 
 # Welcome to My Data Science Blog
 
-Welcome to my collection of articles on various topics in data science, machine learning, and time series forecasting.
+Welcome to my collection of comprehensive articles on various topics in data science, machine learning, and time series forecasting. 
 
 You can download and read my latest articles below.
 
