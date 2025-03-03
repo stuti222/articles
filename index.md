@@ -35,6 +35,9 @@ This article provides a comprehensive guide to Python app development, covering 
 8. [**Powerful Built-in Python Libraries and Useful Applications They Can Help Develop**](https://stuti222.github.io/articles/articles/Powerful_built_in_Python_libraries_and_useful_applications_they_can_help_develop.pdf)  
    This article covers powerful Python standard libraries and their applications, including how developers can leverage these libraries to build efficient, scalable applications.
 <br><br>
+9. [**Future of Big Data: Innovations and Trends**](https://stuti222.github.io/articles/articles/Big_data_technologies_and_techniques.pdf)  
+   This article discusses emerging trends in Big Data, including AI-driven data management, decentralised architectures like Data Mesh, serverless and edge computing, and the future of real-time data processing and federated learning.
+<br><br>
 
 ---
 
