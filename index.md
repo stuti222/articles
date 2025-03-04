@@ -38,6 +38,9 @@ This article provides a comprehensive guide to Python app development, covering 
 9. [**Future of Big Data: Innovations and Trends**](https://stuti222.github.io/articles/articles/Big_data_technologies_and_techniques.pdf)  
    This article discusses emerging trends in Big Data, including AI-driven data management, decentralised architectures like Data Mesh, serverless and edge computing, and the future of real-time data processing and federated learning.
 <br><br>
+10. [**Future of DevOps: Trends, AI, and Innovations**](https://stuti222.github.io/articles/articles/DevOps_trends.pdf)  
+    This article explores the latest trends shaping the future of DevOps, including GitOps, Kubernetes-native development, AI-driven DevOps, and predictions for the next decade of DevOps advancements.
+<br><br>
 
 ---
 
