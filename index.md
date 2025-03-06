@@ -44,6 +44,9 @@ This article provides a comprehensive guide to Python app development, covering 
 11. [**FinTech vs. AdTech**](https://stuti222.github.io/articles/articles/Fintech_vs_Adtech.pdf)  
     This article compares the Financial Technology (FinTech) and Advertising Technology (AdTech) industries, examining their key components, technologies, regulatory considerations, and the potential for innovation and career opportunities within each field.
 <br><br>
+12. [**Data Science in Risk Modeling**](https://stuti222.github.io/articles/articles/Data_Science_in_Risk_Modeling.pdf)  
+    This article discusses the role of data science in risk modelling, exploring how machine learning, AI, and statistical methods can be used to predict and manage financial and operational risks.
+<br><br>
 
 ---
 
