@@ -3,7 +3,7 @@ layout: default
 title: Innovative World of Data Science
 ---
 
-# Dig deeper into Data Science 
+# Dig deeper into Data Science, Analytics, and Technology 
 
 Welcome to my collection of comprehensive articles on various topics in data science, machine learning, and time series forecasting. 
 
