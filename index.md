@@ -3,7 +3,7 @@ layout: default
 title: Innovative World of Data Science
 ---
 
-# Career Inspirations Blog
+# Career Inspirations and Skill Development 
 
 Welcome to my collection of comprehensive articles on various topics in data science, machine learning, and time series forecasting. 
 
