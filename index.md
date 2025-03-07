@@ -3,7 +3,7 @@ layout: default
 title: Innovative World of Data Science
 ---
 
-# Dig deeper into Data Science, Analytics, and Technology 
+# Deep-dive into Data Science, Analytics, and Technology 
 
 Welcome to my collection of comprehensive articles on various topics in data science, machine learning, and time series forecasting. 
 
@@ -44,6 +44,9 @@ This article provides a comprehensive guide to Python app development, covering 
 <br><br>
 12. [**Data Science in Risk Modeling**](https://stuti222.github.io/articles/articles/Data_Science_in_Risk_Modeling.pdf)  
     This article discusses the role of data science in risk modelling, exploring how machine learning, AI, and statistical methods can be used to predict and manage financial and operational risks.
+<br><br>
+13. [**Key Innovations in HealthTech**](https://stuti222.github.io/articles/articles/Key_innovations_in_HealthTech.pdf)  
+    This article explores the latest innovations in HealthTech, examining advancements in AI, telemedicine, wearable devices, and data privacy, as well as their impact on healthcare delivery and patient outcomes.
 <br><br>
 
 ---
