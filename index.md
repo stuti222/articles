@@ -48,6 +48,9 @@ This article provides a comprehensive guide to Python app development, covering 
 13. [**Key Innovations in HealthTech**](https://stuti222.github.io/articles/articles/Key_innovations_in_HealthTech.pdf)  
     This article explores the latest innovations in HealthTech, examining advancements in AI, telemedicine, wearable devices, and data privacy, as well as their impact on healthcare delivery and patient outcomes.
 <br><br>
+14. [**Mathematical Modelling for Marketing**](https://stuti222.github.io/articles/articles/Mathematical_Modeling_for_Marketing.pdf)  
+    This article delves into the use of mathematical modelling in marketing strategies, exploring techniques like Monte Carlo simulations, market segmentation, optimisation, and the future of AI in marketing. It discusses how businesses can leverage data and mathematical models to drive more efficient and targeted marketing campaigns.  
+<br><br> 
 
 ---
 
