@@ -54,6 +54,9 @@ This article provides a comprehensive guide to Python app development, covering 
 15. [**History of Evolutions in NLP**](https://stuti222.github.io/articles/articles/History_of_evolutions_in_NLP.pdf)  
     This article explores the history of natural language processing, detailing key milestones and advancements in the field, from rule-based systems to the latest breakthroughs in deep learning.
 <br><br>
+16. [**Optimisation Algorithms and Their Applications**](https://stuti222.github.io/articles/articles/Optimisation_algorithms_and_their_applications.pdf)  
+    This article explores various optimisation algorithms and their real-world applications, examining how they can be utilised to solve complex problems across different industries.
+<br><br>
 
 ---
 
