@@ -57,6 +57,9 @@ This article provides a comprehensive guide to Python app development, covering 
 16. [**Optimisation Algorithms and Their Applications**](https://stuti222.github.io/articles/articles/Optimisation_algorithms_and_their_applications.pdf)  
     This article explores various optimisation algorithms and their real-world applications, examining how they can be utilised to solve complex problems across different industries.
 <br><br>
+17. [**Data Science Requirements in Different Industries**](https://stuti222.github.io/articles/articles/Data_Science_requirements_in_different_industries.pdf)  
+    This article examines how data science is utilised across different industries, highlighting the skills, tools, and methodologies required for success in various domains such as finance, healthcare, e-commerce, and manufacturing.  
+<br><br>
 
 ---
 
