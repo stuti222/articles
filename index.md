@@ -60,6 +60,9 @@ This article provides a comprehensive guide to Python app development, covering 
 17. [**Data Science Requirements in Different Industries**](https://stuti222.github.io/articles/articles/Data_Science_requirements_in_different_industries.pdf)  
     This article examines how data science is utilised across different industries, highlighting the skills, tools, and methodologies required for success in various domains such as finance, healthcare, e-commerce, and manufacturing.  
 <br><br>
+18. [**Innovations in Data Analytics**](https://stuti222.github.io/articles/articles/Innovations_in_Data_Analytics.pdf)  
+    This article explores the evolving landscape of data analytics, examining key advancements in AI-driven decision-making, automation, and optimisation techniques. It delves into real-world applications across finance, retail, healthcare, and supply chain management, providing insights into the latest trends shaping the field.  
+<br><br>
 
 ---
 
