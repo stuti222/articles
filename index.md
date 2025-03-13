@@ -63,6 +63,9 @@ This article provides a comprehensive guide to Python app development, covering 
 18. [**Innovations in Data Analytics**](https://stuti222.github.io/articles/articles/Innovations_in_Data_Analytics.pdf)  
     This article explores the evolving landscape of data analytics, examining key advancements in AI-driven decision-making, automation, and optimisation techniques. It delves into real-world applications across finance, retail, healthcare, and supply chain management, providing insights into the latest trends shaping the field.  
 <br><br>
+19. [**Experimental Designs and Data Collection**](https://stuti222.github.io/articles/articles/Experimental_designs_and_data_collection.pdf)  
+    This article covers key principles in experimental design and data collection, exploring the importance of statistical methods, real-world applications, and resources for further learning.
+<br><br>
 
 ---
 
