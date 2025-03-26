@@ -5,7 +5,7 @@ title: Innovative World of Data Science
 
 # Deep-dive into Data Science, Analytics, and Technology 
 
-Welcome to my collection of comprehensive articles on various topics in data science, machine learning, and time series forecasting. 
+Welcome to an insightful set of deep-dive explorations, covering various themes in the fast growing field of data science, machine learning, analytics, and technology. 
 
 ## Articles
 
